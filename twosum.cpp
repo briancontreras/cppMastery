@@ -8,7 +8,7 @@ int main() {
     vector<int> nums = {2, 7, 11, 15};
     int target = 9;
 
-    map<int, int> vals;
+    map<int,int> vals;
 
     for (int i = 0; i < nums.size(); i++) {
         int diff = target - nums[i];
