@@ -5,20 +5,18 @@
 using namespace std;
 
 
-class Solution {
-public:
-    bool containsDuplicate(vector<int>& nums) {
+int main(){
+    vector<int> nums = {1,1,1,3,3,4,3,2,4,2};
         std::unordered_set<int> arr;
 
         for(int i = 0; i < nums.size();i++){
             if(arr.count(nums[i])>0){
-                return true;
+                cout<<"True";
             }
             else{
                 arr.insert(nums[i]);
             }
         }
-        return false;
-    
-    }
-};
+        cout<<"False";
+    return 0;
+}
