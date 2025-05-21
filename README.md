@@ -9,3 +9,6 @@ So I reviewed basic print and input code statements, now I'm going to review the
 
 ## Day 2(5/13)
 New objective is to complete the entire neetcode 150 in cpp so that I am able to get experience with all data structues. My second goal is to start using OOP practice assignments to develop OOP principles in CPP to get an overall better understanding.
+
+##Day 3(5/21)
+solved some more leetcode problems and then started reading the textbook to have a better understanding of the backend of C++, after a month I think I will truly be more knowledgeable on how to utilize c++ better.
